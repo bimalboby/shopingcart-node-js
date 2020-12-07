@@ -18,3 +18,4 @@ router.get('/signup',(req,res)=>{
   res.render('user/signup')
 })
 module.exports = router;
+//zzzzzzzzzzzzzzzzzzzzzzzz
